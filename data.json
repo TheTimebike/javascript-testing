@@ -1,12 +1,11 @@
 {
-    "products": [
-        {
-            "date": "20/1/2021",
-            "name": "test"
-        },
-        {
-            "date": "21/1/2021",
-            "name": "test2"
-        }
-    ]
-}
+	"products": [{
+			"date": "20/1/2021",
+			"name": "test"
+		},
+		{
+			"date": "21/1/2021",
+			"name": "test2"
+		}
+	]
+
